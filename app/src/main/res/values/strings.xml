@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">抢红包</string>
+    <string name="my_accessibility_description">这是用来窃取用户资料的黑PP</string>
+
+    <string name="app_about">关于</string>
+    <string name="app_help">帮助</string>
+    <string name="app_activation">激活码</string>
+    <string name="app_share">分享</string>
+    <string name="app_setHongbao">设置</string>
+    <string name="timedelay">延时抢红包(秒)</string>
+</resources>
